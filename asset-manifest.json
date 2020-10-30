@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personalwebsite/static/css/main.07956ca3.chunk.css",
+    "main.css": "/personalwebsite/static/css/main.ace23da4.chunk.css",
     "main.js": "/personalwebsite/static/js/main.e108f5ce.chunk.js",
     "main.js.map": "/personalwebsite/static/js/main.e108f5ce.chunk.js.map",
     "runtime-main.js": "/personalwebsite/static/js/runtime-main.9ef105d1.js",
@@ -10,7 +10,7 @@
     "static/js/2.05251d32.chunk.js.map": "/personalwebsite/static/js/2.05251d32.chunk.js.map",
     "index.html": "/personalwebsite/index.html",
     "static/css/2.2aa38b9c.chunk.css.map": "/personalwebsite/static/css/2.2aa38b9c.chunk.css.map",
-    "static/css/main.07956ca3.chunk.css.map": "/personalwebsite/static/css/main.07956ca3.chunk.css.map",
+    "static/css/main.ace23da4.chunk.css.map": "/personalwebsite/static/css/main.ace23da4.chunk.css.map",
     "static/js/2.05251d32.chunk.js.LICENSE.txt": "/personalwebsite/static/js/2.05251d32.chunk.js.LICENSE.txt",
     "static/media/about_pict.f5aa29db.png": "/personalwebsite/static/media/about_pict.f5aa29db.png",
     "static/media/ballon.a73d6849.png": "/personalwebsite/static/media/ballon.a73d6849.png",
@@ -46,7 +46,7 @@
     "static/js/runtime-main.9ef105d1.js",
     "static/css/2.2aa38b9c.chunk.css",
     "static/js/2.05251d32.chunk.js",
-    "static/css/main.07956ca3.chunk.css",
+    "static/css/main.ace23da4.chunk.css",
     "static/js/main.e108f5ce.chunk.js"
   ]
 }
